@@ -21,3 +21,25 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+Hospital/.settings/org.eclipse.jdt.core.prefs
+/.metadata/
+Servers/Tomcat v9.0 Server at localhost-config/web.xml
+Servers/Tomcat v9.0 Server at localhost-config/tomcat-users.xml
+Servers/Tomcat v9.0 Server at localhost-config/server.xml
+Servers/Tomcat v9.0 Server at localhost-config/context.xml
+Servers/Tomcat v9.0 Server at localhost-config/catalina.properties
+Servers/Tomcat v9.0 Server at localhost-config/catalina.policy
+Hospital/.tern-project
+Hospital/.settings/org.hibernate.eclipse.console.prefs
+Hospital/.settings/org.eclipse.wst.validation.prefs
+Hospital/.settings/org.eclipse.wst.jsdt.ui.superType.name
+Hospital/.settings/org.eclipse.wst.jsdt.ui.superType.container
+Hospital/.settings/org.eclipse.wst.common.project.facet.core.xml
+Hospital/.settings/org.eclipse.wst.common.project.facet.core.prefs.xml
+Hospital/.settings/org.eclipse.wst.common.component
+Hospital/.settings/org.eclipse.m2e.core.prefs
+Hospital/.settings/org.eclipse.jpt.entitygen.gene_data.dbo
+Hospital/.settings/org.eclipse.jpt.core.prefs
+Hospital/.settings/org.eclipse.core.resources.prefs
+Hospital/.settings/.jsdtscope
+Servers/.settings/org.eclipse.wst.server.core.prefs
